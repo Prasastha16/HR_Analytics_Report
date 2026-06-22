@@ -111,10 +111,8 @@ HR-Analytics-Dashboard
 ├── Power BI Dashboard
 │   └── HR Analysis Dashboard.pbix
 │
-├── Dashboard Screenshots
-│   └── dashboard.png
-│
-└── README.md
+└── Dashboard 
+    
 ```
 
 ---
