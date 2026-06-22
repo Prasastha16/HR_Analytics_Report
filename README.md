@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard | Excel, SQL & Power BI
+# 📊 HR Analytics Report | Excel, SQL & Power BI
 
 An end-to-end HR Analytics project focused on employee attrition analysis and workforce insights. The project includes data cleaning in Excel, SQL-based exploratory analysis, and an interactive Power BI dashboard to identify employee turnover trends and key HR metrics.
 
